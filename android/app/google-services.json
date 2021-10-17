@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959706310405",
+    "project_id": "levelingpdv",
+    "storage_bucket": "levelingpdv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959706310405:android:85f229a7bce6964423b96c",
+        "android_client_info": {
+          "package_name": "com.leveling.levelingpdv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959706310405-lddkudi11fcnhdonu3dndnuh8j8bvkpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkIraCKmX8mFBm4B0jyBEkozgL7ceuxhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959706310405-lddkudi11fcnhdonu3dndnuh8j8bvkpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
