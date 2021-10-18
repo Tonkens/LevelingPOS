@@ -1,16 +1,15 @@
 # levelingpdv
 
-A new Flutter project.
+POS System created with Flutter Desktop.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Study about flutter desktop, only front-end at this time. 
 
-A few resources to get you started if this is your first Flutter project:
+Login Page - Unfinished
+Sales Page - Unfinished
+Administrative Page - Unfinished
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Back-end will be made in the future, according to priority functions.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project has no intention to be a final product, his objective is only to learn and take my skills to new horizons.
