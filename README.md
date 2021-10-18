@@ -6,9 +6,9 @@ POS System created with Flutter Desktop.
 
 Study about flutter desktop, only front-end at this time. 
 
-Login Page - Unfinished
-Sales Page - Unfinished
-Administrative Page - Unfinished
+Login Page - Unfinished<br/>
+Sales Page - Unfinished<br/>
+Administrative Page - Unfinished<br/>
 
 Back-end will be made in the future, according to priority functions.
 
